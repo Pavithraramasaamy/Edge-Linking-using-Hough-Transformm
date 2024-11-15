@@ -1,4 +1,5 @@
-# Exp No 7: Edge-Linking-using-Hough-Transform
+# Exp No 7: Hough Transform
+## DATE : 03-10-2024
 
 ## Aim:
 To write a Python program to detect the lines using Hough Transform.
